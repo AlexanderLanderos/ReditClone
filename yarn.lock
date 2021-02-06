@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@mikro-orm/cli@^4.4.2":
+"@mikro-orm/cli@4.4.2":
   version "4.4.2"
   resolved "https://registry.yarnpkg.com/@mikro-orm/cli/-/cli-4.4.2.tgz#2757e62f4bfb08c2a3614cedd07ee819f65dde3d"
   integrity sha512-rWLEkV7uLXnMtVYQDx5pT9oRvRsZL5zzD9h/Ihw9Rdkp3W/EBLrG/XDf6b6mV/tOzn9EeNEthIFnMZiZFUatiQ==
@@ -18,7 +18,7 @@
     yargonaut "1.1.4"
     yargs "15.4.1"
 
-"@mikro-orm/core@^4.4.2":
+"@mikro-orm/core@4.4.2", "@mikro-orm/core@^4.4.2":
   version "4.4.2"
   resolved "https://registry.yarnpkg.com/@mikro-orm/core/-/core-4.4.2.tgz#9191e2c0e24368a21cd4866f17ff0e3ac018af18"
   integrity sha512-aoX3Wglu3Ak6O4KAmXzv3mqX6i48m8OkL+T5HOdttDnOu4nBL2KprQCRj2DvMhhduKpVX0gKjQ7zieZHD4j6fQ==
@@ -48,7 +48,7 @@
     knex "0.21.17"
     sqlstring "2.3.2"
 
-"@mikro-orm/migrations@^4.4.2":
+"@mikro-orm/migrations@4.4.2", "@mikro-orm/migrations@^4.4.2":
   version "4.4.2"
   resolved "https://registry.yarnpkg.com/@mikro-orm/migrations/-/migrations-4.4.2.tgz#9b5da7ededbdaff75f0c1dd8985229e880978c11"
   integrity sha512-MSlAzjvj5BJnTlkU/09+U83MVwt+T2Sq4BJAcHLXdo9mEwr+71S8eL/0uzJgpXpnkwP/M6e+hsGI8TG69e0P/g==
@@ -58,7 +58,7 @@
     fs-extra "9.1.0"
     umzug "2.3.0"
 
-"@mikro-orm/postgresql@^4.4.2":
+"@mikro-orm/postgresql@4.4.2":
   version "4.4.2"
   resolved "https://registry.yarnpkg.com/@mikro-orm/postgresql/-/postgresql-4.4.2.tgz#8b8bb36f76aaa630df6eaafa6d31ae6615a7d5b5"
   integrity sha512-u1szwsx0GfQSW0LkUNjP/mWixkcqc2s99G8ckZKemPJiHvS6v4aOymqb0rdgCKs1Iz6VCUQR+6wkuzXXrYIdIQ==
@@ -1704,7 +1704,7 @@ pg-types@^2.1.0:
     postgres-date "~1.0.4"
     postgres-interval "^1.1.0"
 
-pg@8.5.1, pg@^8.5.1:
+pg@8.5.1:
   version "8.5.1"
   resolved "https://registry.yarnpkg.com/pg/-/pg-8.5.1.tgz#34dcb15f6db4a29c702bf5031ef2e1e25a06a120"
   integrity sha512-9wm3yX9lCfjvA98ybCyw2pADUivyNWT/yIP4ZcDVpMN0og70BUWYEGXPCTAQdGTAqnytfRADb7NERrY1qxhIqw==
